@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DownloadPicture</string>
+    <string name="fileName">/picture.jpg</string>
+    <string name="notDownloaded">Picture is not downloaded</string>
+    <string name="imageURL">http://picslife.ru/wp-content/uploads/2012/12/fotografiya-zemli-v-vyisokom-razreshenii_8000x8000.jpg</string>
+    <string name="startDownloading">start downloading</string>
+    <string name="delete">delete file</string>
+    <string name="display">show photo</string>
+    <string name="downloaded">Downloading complete</string>
+    <string name="downloadingInProgress">Downloading in progress…</string>
+    <string name="error">Downloading error</string>
+</resources>
